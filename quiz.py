@@ -46,7 +46,7 @@ if Question4.lower() == "equus ferus caballus":
 else:
     print("Oops, the answer was Equus Ferus Caballus")
 print("====================================================")
-print("Your score was",Score)
+print("Your score was", Score)
 if (Score==4):
     print("Wow, you got everything right!")
 elif (Score==3):
